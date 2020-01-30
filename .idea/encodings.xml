@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/src/com/example/day07/task02/KTVByLinkedList.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/example/day11/task03/Books.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/example/day11/task03/FileUtil.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/com/example/day11/task03/RecordBooksOrder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/day15/task01/JDBCTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/day15/task02/PreparedStatementTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/day15/task03/AdminDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/day15/task03/FruitItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/day15/task03/JDBCUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/example/day15/task03/test.java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

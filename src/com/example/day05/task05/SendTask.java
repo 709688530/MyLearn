@@ -10,7 +10,7 @@ public class SendTask {
 
 
 
-    public SendTask(String number, double goodsWeight){
+    public SendTask(String number,double goodsWeight){
         this.number = number;
         this.goodsWeight = goodsWeight;
     }
